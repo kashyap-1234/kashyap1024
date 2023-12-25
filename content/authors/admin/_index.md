@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Kashyap
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kashyap
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Durga Venkata kashyap
+last_name: Munukutla
 
 # Status emoji
 status:
@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: CS Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Illinios at Chicago
+    url: https://uic.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Graduate student in computer science, polyglot, and avid learner with excellent ability to develop software solutions for challenging real-world problems using data and digital technologies.
 
 # Interests to show in About widget
 interests:
