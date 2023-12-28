@@ -1,7 +1,4 @@
 ---
-# Display name
-title: Kashyap
-
 # Name pronunciation (optional)
 name_pronunciation: Kashyap
 
@@ -29,9 +26,10 @@ bio: Graduate student in computer science, polyglot, and avid learner with excel
 
 # Interests to show in About widget
 interests:
+  - Machine Learning
+  - Computer vision
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
 
 # Education to show in About widget
 education:
@@ -60,27 +58,27 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Art
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 90
+        icon: paint-brush
         icon_pack: fas
-      - name: Cats
+      - name: Music
         description: ''
         percent: 100
-        icon: cat
+        icon: musical-note
         icon_pack: fas
-      - name: Photography
+      - name: Politics
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: user-group
         icon_pack: fas
 
 # Social/Academic Networking
@@ -90,22 +88,15 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: 'dmunuk2@uic.edu'
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kashyap-1234
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kashyap-munukutla/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
