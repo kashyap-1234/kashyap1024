@@ -1,7 +1,5 @@
 ---
-# Name pronunciation (optional)
-name_pronunciation: Kashyap
-
+title: Kashyap
 # Full name (for SEO)
 first_name: Durga Venkata kashyap
 last_name: Munukutla
